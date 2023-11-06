@@ -1,373 +1,132 @@
-.component-1 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+import * as React from "react";
+
+function MyComponent(props) {
+  return (
+    <div className="bg-zinc-800 flex flex-col">
+      <img
+        loading="lazy"
+        srcSet="..."
+        className="aspect-[0.99] object-contain object-center w-full overflow-hidden self-stretch mt-10 max-md:max-w-full"
+      />
+      <img
+        loading="lazy"
+        srcSet="..."
+        className="aspect-[2.79] object-contain object-center w-[173px] overflow-hidden self-center max-w-full mt-52 max-md:mt-10"
+      />
+      <div className="self-center flex w-full max-w-[1332px] grow flex-col mt-24 max-md:max-w-full max-md:mt-10">
+        <div className="self-stretch px-5 max-md:max-w-full">
+          <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div className="flex flex-col items-stretch w-[36%] max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-square object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[36%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-square object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[28%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-square object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="self-stretch mt-8 px-5 max-md:max-w-full">
+          <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div className="flex flex-col items-stretch w-[33%] max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.78] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.79] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[33%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.79] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="self-stretch mt-8 px-5 max-md:max-w-full">
+          <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div className="flex flex-col items-stretch w-[32%] max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.75] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[34%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.79] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[34%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[0.79] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="self-center w-full max-w-[1255px] mt-8 px-5 max-md:max-w-full">
+          <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
+            <div className="flex flex-col items-stretch w-[31%] max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[1.77] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[38%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[1.77] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+            <div className="flex flex-col items-stretch w-[31%] ml-5 max-md:w-full max-md:ml-0">
+              <img
+                loading="lazy"
+                srcSet="..."
+                className="aspect-[1.77] object-contain object-center w-full overflow-hidden grow max-md:mt-10"
+              />
+            </div>
+          </div>
+        </div>
+        <img
+          loading="lazy"
+          srcSet="..."
+          className="aspect-[3.33] object-contain object-center w-[173px] overflow-hidden self-center ml-0 max-w-full mt-48 max-md:mt-10"
+        />
+        <img
+          loading="lazy"
+          srcSet="..."
+          className="aspect-[3.97] object-contain object-center w-full overflow-hidden self-center max-w-[1172px] grow mt-20 max-md:max-w-full max-md:mt-10"
+        />
+      </div>
+    </div>
+  );
 }
-.desktop-2 {
-  height: calc(69.72% - 758.5px);
-  background-color: var(--dark-slate-gray);
-  margin-bottom: 206px;
-  overflow: hidden;
-  padding: 140px 0 618.5px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  align-self: stretch;
-  position: relative;
-}
-.relative-wrapper-two {
-  margin-bottom: 378px;
-  position: relative;
-}
-.num-2023-11-02-20-3 {
-  width: 1440px;
-  height: 1326px;
-  position: relative;
-}
-.num-157-20231103175011-1 {
-  width: 1525px;
-  height: 858px;
-  position: absolute;
-  left: -61px;
-  top: 130px;
-}
-.num-158-20231103214438-1 {
-  width: 1280px;
-  height: 720px;
-  position: absolute;
-  left: 80px;
-  bottom: -22px;
-}
-.group-3 {
-  padding: 0 358px 0 0;
-  display: flex;
-  align-items: flex-start;
-  position: absolute;
-  right: -127px;
-  top: -102px;
-}
-.num-159-20231103215244-1 {
-  width: 724px;
-  height: 79px;
-  margin-right: 188px;
-}
-.relative-wrapper-one {
-  margin-top: 24px;
-  position: relative;
-}
-.num-160-20231103220216-1 {
-  width: 260px;
-  height: 86px;
-  position: absolute;
-  right: -358px;
-  top: 0;
-}
-.num-160-20231103220128-1 {
-  width: 260px;
-  height: 86px;
-  position: absolute;
-  right: -248px;
-  top: 0;
-}
-.num-160-20231103220145-1 {
-  width: 260px;
-  height: 86px;
-  position: absolute;
-  right: -118px;
-  top: 0;
-}
-.num-160-20231103220157-1 {
-  width: 260px;
-  height: 87px;
-  position: relative;
-}
-.flex-wrapper-fourteen {
-  margin-bottom: 31px;
-  padding: 0 0 0 108px;
-  display: flex;
-  align-items: flex-start;
-}
-.img-9308-6 {
-  width: 320px;
-  height: 320px;
-}
-.img-9308-6:not(:last-of-type) {
-  margin-right: 584px;
-}
-.relative-wrapper-three {
-  margin-left: 130px;
-  position: relative;
-}
-.group-4 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: absolute;
-  left: 503px;
-  top: -503px;
-}
-.num-160-20231103221718-1 {
-  width: 173px;
-  height: 62px;
-  margin-bottom: 1866px;
-}
-.num-160-20231103221736-1 {
-  width: 173px;
-  height: 51.54px;
-}
-.img-9301-1 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  left: 431px;
-  top: -351px;
-}
-.img-9327-5 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  left: -22px;
-  top: 166px;
-}
-.img-9315-1 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  left: -22px;
-  bottom: 224.5px;
-}
-.flex-wrapper-one {
-  position: relative;
-}
-.img-9332-3 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  left: 430px;
-  top: 166px;
-}
-.img-9292-1 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  right: 84px;
-  top: 166px;
-}
-.img-9344-5 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  left: 430px;
-  top: 683px;
-}
-.img-9297-3 {
-  width: 320px;
-  height: 320px;
-  position: absolute;
-  right: 84px;
-  top: 683px;
-}
-.group-2 {
-  padding: 0 20px 0 0;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  position: relative;
-}
-.flex-wrapper-fifteen {
-  margin-bottom: 323.5px;
-  padding: 0 0 0 15px;
-  display: flex;
-  align-items: center;
-}
-.num-161-20231103223547-1 {
-  width: 344px;
-  height: 193px;
-  margin-right: 110px;
-}
-.num-161-20231103223906-1 {
-  width: 344px;
-  height: 193.5px;
-}
-.num-161-20231103223906-1:not(:last-of-type) {
-  margin-right: 109px;
-}
-.flex-wrapper-sixteen {
-  margin-bottom: 323.5px;
-  display: flex;
-  align-items: flex-start;
-}
-.num-161-20231105141329-1 {
-  width: 344px;
-  height: 193.5px;
-}
-.num-161-20231105141329-1:not(:last-of-type) {
-  margin-right: 125px;
-}
-.num-161-20231105141430-1 {
-  width: 344px;
-  height: 193.5px;
-  margin-right: 109px;
-}
-.flex-wrapper-seventeen {
-  padding: 0 0 0 31px;
-  display: flex;
-  align-items: flex-start;
-}
-.num-161-20231105143202-1 {
-  width: 344px;
-  height: 193.5px;
-}
-.num-161-20231105143202-1:not(:last-of-type) {
-  margin-right: 77px;
-}
-.num-161-20231105143310-1 {
-  width: 344px;
-  height: 193.5px;
-  margin-right: 146px;
-}
-.group-1 {
-  padding: 0 0 107px 104px;
-  display: flex;
-  align-items: flex-start;
-  position: absolute;
-  right: -212px;
-  bottom: -532px;
-}
-.num-161-20231105144934-1 {
-  width: 1280px;
-  height: 720px;
-  position: relative;
-}
-.num-161-20231105144947-1 {
-  width: 1280px;
-  height: 720px;
-  position: absolute;
-  left: 0;
-  top: 107px;
-}
-.flex-wrapper-eleven {
-  display: flex;
-  align-items: flex-start;
-}
-.flex-wrapper-eleven:not(:last-of-type) {
-  margin-bottom: 206px;
-}
-. {
-  width: calc(26.34% - 46px);
-  background-color: var(--white-smoke);
-  margin-right: 151px;
-  padding: 257px 0 0 46px;
-  align-self: stretch;
-  position: relative;
-}
-.flex-wrapper-three {
-  background-size: 100% 100%;
-  background-position: center;
-  background-image: url("https://via.placeholder.com/379x379");
-  padding: 10px 80px 149px 79px;
-  display: flex;
-  align-items: flex-start;
-  position: absolute;
-  right: -1px;
-  top: 0;
-}
-.rectangle-1 {
-  width: 220px;
-  height: 220px;
-  background-color: var(--white-smoke);
-  position: relative;
-}
-.img-9310-2 {
-  width: 210px;
-  height: 210px;
-  position: absolute;
-  left: 84px;
-  top: 15px;
-}
-.num-162-20231105200631-1 {
-  width: 508px;
-  height: 286px;
-  position: relative;
-}
-. {
-  width: calc(26.34% - 159px);
-  background: linear-gradient(
-      rgba(245, 245, 245, 1),
-      rgba(245, 245, 245, 1)
-    ),
-    url("https://via.placeholder.com/379x379");
-  background-size: cover;
-  background-position: center;
-  overflow: hidden;
-  padding: 10px 79px 149px 80px;
-  align-self: stretch;
-  position: relative;
-}
-.:not(:last-of-type) {
-  margin-right: 151px;
-}
-.flex-wrapper-four {
-  background-color: var(--white-smoke);
-  padding: 5px;
-  display: flex;
-  align-items: center;
-}
-.img-9318-1 {
-  width: 210px;
-  height: 210px;
-}
-.num-162-20231105201324-1 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 35px;
-  top: 257px;
-}
-.num-162-20231105201515-1 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 30px;
-  top: 257px;
-}
-.num-162-20231105201725-1 {
-  width: 508px;
-  height: 285.75px;
-  position: relative;
-}
-.num-162-20231105201927-2 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 41px;
-  top: 257px;
-}
-.num-162-20231105202124-2 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 37px;
-  top: 257px;
-}
-.num-162-20231105202316-1 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  right: -170px;
-  top: 257px;
-}
-.num-162-20231105201927-1 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 38px;
-  top: 257px;
-}
-.num-162-20231105202124-1 {
-  width: 508px;
-  height: 285.75px;
-  position: absolute;
-  left: 46px;
-  top: 257px;
-}
+
+
