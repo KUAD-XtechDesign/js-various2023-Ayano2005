@@ -1,6 +1,15 @@
 .1_2 { 
 	overflow:hidden;
 }
+
+
+img {
+  width: 100px;
+  height: 100px;
+  max-width: 100%;
+}
+
+
 .e1_2 { 
 	background-color:rgba(53.00000064074993, 54.00000058114529, 42.000001296401024, 1);
 	width:1440px;
