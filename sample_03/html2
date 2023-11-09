@@ -1,13 +1,53 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    
+    <body>
+        <div class="max-w-[90rem] mx-auto bg-zinc-800">
+            <img class="block" src="./assets/image-88271.39175704443.png" />
+            <img class="block" src="./assets/image-47757.35151813016.png" />
+            <img class="block" src="./assets/image-58045.68599621107.png" />
+            <div>
+                <img class="block" src="./assets/image-16591.879941416355.png" />
+                <img class="block" src="./assets/image-59152.903107923805.png" />
+                <img class="block" src="./assets/image-59750.749444682486.png" />
+                <img class="block" src="./assets/image-42908.9711165767.png" />
+                <img class="block" src="./assets/image-70392.4090184433.png" />
+            </div>
+            <div>
+                <img class="block" src="./assets/image-11552.986712147418.png" />
+                <img class="block" src="./assets/image-58078.0057719207.png" />
+            </div>
+            <img class="block" src="./assets/image-35925.112049694195.png" />
+            <img class="block" src="./assets/image-95524.29000965081.png" />
+            <img class="block" src="./assets/image-3977.234909688643.png" />
+            <img class="block" src="./assets/image-66581.77770864224.png" />
+            <img class="block" src="./assets/image-84995.68075841997.png" />
+            <img class="block" src="./assets/image-80859.64605667818.png" />
+            <img class="block" src="./assets/image-10990.298292831025.png" />
+            <img class="block" src="./assets/image-34352.22529002284.png" />
+            <img class="block" src="./assets/image-61674.521406654945.png" />
+            <div>
+                <img class="block" src="./assets/image-10347.876718128757.png" />
+                <img class="block" src="./assets/image-14737.089078116484.png" />
+                <img class="block" src="./assets/image-74848.16910508416.png" />
+                <img class="block" src="./assets/image-56429.06475467371.png" />
+                <img class="block" src="./assets/image-81003.50949521769.png" />
+                <img class="block" src="./assets/image-49078.2038557684.png" />
+                <img class="block" src="./assets/image-63901.413298235886.png" />
+                <img class="block" src="./assets/image-32842.63062057153.png" />
+                <img class="block" src="./assets/image-11115.037461049715.png" />
+            </div>
+            <div>
+                <img class="block" src="./assets/image-99728.18750723008.png" />
+                <img class="block" src="./assets/image-73633.79447366585.png" />
+            </div>
+        </div>
+    </body>
+
 </html>
