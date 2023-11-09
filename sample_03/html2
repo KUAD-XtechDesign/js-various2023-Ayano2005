@@ -1,53 +1,78 @@
 <!DOCTYPE html>
 <html>
-    
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="https://cdn.tailwindcss.com"></script>
-    </head>
-    
-    <body>
-        <div class="max-w-[90rem] mx-auto bg-zinc-800">
-            <img class="block" src="./assets/image-88271.39175704443.png" />
-            <img class="block" src="./assets/image-47757.35151813016.png" />
-            <img class="block" src="./assets/image-58045.68599621107.png" />
-            <div>
-                <img class="block" src="./assets/image-16591.879941416355.png" />
-                <img class="block" src="./assets/image-59152.903107923805.png" />
-                <img class="block" src="./assets/image-59750.749444682486.png" />
-                <img class="block" src="./assets/image-42908.9711165767.png" />
-                <img class="block" src="./assets/image-70392.4090184433.png" />
-            </div>
-            <div>
-                <img class="block" src="./assets/image-11552.986712147418.png" />
-                <img class="block" src="./assets/image-58078.0057719207.png" />
-            </div>
-            <img class="block" src="./assets/image-35925.112049694195.png" />
-            <img class="block" src="./assets/image-95524.29000965081.png" />
-            <img class="block" src="./assets/image-3977.234909688643.png" />
-            <img class="block" src="./assets/image-66581.77770864224.png" />
-            <img class="block" src="./assets/image-84995.68075841997.png" />
-            <img class="block" src="./assets/image-80859.64605667818.png" />
-            <img class="block" src="./assets/image-10990.298292831025.png" />
-            <img class="block" src="./assets/image-34352.22529002284.png" />
-            <img class="block" src="./assets/image-61674.521406654945.png" />
-            <div>
-                <img class="block" src="./assets/image-10347.876718128757.png" />
-                <img class="block" src="./assets/image-14737.089078116484.png" />
-                <img class="block" src="./assets/image-74848.16910508416.png" />
-                <img class="block" src="./assets/image-56429.06475467371.png" />
-                <img class="block" src="./assets/image-81003.50949521769.png" />
-                <img class="block" src="./assets/image-49078.2038557684.png" />
-                <img class="block" src="./assets/image-63901.413298235886.png" />
-                <img class="block" src="./assets/image-32842.63062057153.png" />
-                <img class="block" src="./assets/image-11115.037461049715.png" />
-            </div>
-            <div>
-                <img class="block" src="./assets/image-99728.18750723008.png" />
-                <img class="block" src="./assets/image-73633.79447366585.png" />
-            </div>
-        </div>
-    </body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
 
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Desktop2.css" />
+  </head>
+  <body>
+    <div class="desktop-2">
+      <img class="icon" alt="" src="./public/20231102-20-3@2x.png" />
+
+      <img class="icon1" alt="" src="./public/157-20231103175011-1@2x.png" />
+
+      <img class="icon2" alt="" src="./public/158-20231103214438-1@2x.png" />
+
+      <div class="parent">
+        <img class="icon3" alt="" src="./public/159-20231103215244-1@2x.png" />
+
+        <img class="icon4" alt="" src="./public/160-20231103220216-1@2x.png" />
+
+        <img class="icon5" alt="" src="./public/160-20231103220128-1@2x.png" />
+
+        <img class="icon6" alt="" src="./public/160-20231103220145-1@2x.png" />
+
+        <img class="icon7" alt="" src="./public/160-20231103220157-1@2x.png" />
+      </div>
+      <div class="group">
+        <img class="icon8" alt="" src="./public/160-20231103221718-1@2x.png" />
+
+        <img class="icon9" alt="" src="./public/160-20231103221736-1@2x.png" />
+      </div>
+      <img class="img-9301-1-icon" alt="" src="./public/img-9301-1@2x.png" />
+
+      <img class="img-9322-3-icon" alt="" src="./public/img-9322-3@2x.png" />
+
+      <img class="img-9308-6-icon" alt="" src="./public/img-9308-6@2x.png" />
+
+      <img class="img-9332-3-icon" alt="" src="./public/img-9332-3@2x.png" />
+
+      <img class="img-9327-5-icon" alt="" src="./public/img-9327-5@2x.png" />
+
+      <img class="img-9292-1-icon" alt="" src="./public/img-9292-1@2x.png" />
+
+      <img class="img-9315-1-icon" alt="" src="./public/img-9315-1@2x.png" />
+
+      <img class="img-9344-5-icon" alt="" src="./public/img-9344-5@2x.png" />
+
+      <img class="img-9297-3-icon" alt="" src="./public/img-9297-3@2x.png" />
+
+      <div class="container">
+        <img class="icon10" alt="" src="./public/161-20231103223547-1@2x.png" />
+
+        <img class="icon11" alt="" src="./public/161-20231103224014-1@2x.png" />
+
+        <img class="icon12" alt="" src="./public/161-20231103223906-1@2x.png" />
+
+        <img class="icon13" alt="" src="./public/161-20231105141329-1@2x.png" />
+
+        <img class="icon14" alt="" src="./public/161-20231105141430-1@2x.png" />
+
+        <img class="icon15" alt="" src="./public/161-20231105142420-1@2x.png" />
+
+        <img class="icon16" alt="" src="./public/161-20231105143621-1@2x.png" />
+
+        <img class="icon17" alt="" src="./public/161-20231105143310-1@2x.png" />
+
+        <img class="icon18" alt="" src="./public/161-20231105143202-1@2x.png" />
+      </div>
+      <div class="group-div">
+        <img class="icon19" alt="" src="./public/161-20231105144934-1@2x.png" />
+
+        <img class="icon20" alt="" src="./public/161-20231105144947-1@2x.png" />
+      </div>
+    </div>
+  </body>
 </html>
