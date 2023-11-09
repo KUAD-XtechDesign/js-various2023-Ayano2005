@@ -1,83 +1,13 @@
-/*
- *	This content is generated from the PSD File Info.
- *	(Alt+Shift+Ctrl+I).
- *
- *	@desc 		
- *	@file 		desktop___2
- *	@date 		Thursday 09th of November 2023 06:23:38 AM
- *	@title 		Page 1
- *	@author 	
- *	@keywords 	
- *	@generator 	Export Kit v1.3.figma
- *
-*/
- -->
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
-	<head>
-		<meta http-equiv="content-type" content="text/html" charset="utf-8" />
-		<title>desktop___2</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="" >
-		<link rel="StyleSheet" href="desktop___2.css" />
-		<script src="https://secure.exportkit.com/cdn/js/ek_googlefonts.js?v=6"></script>
-		<!-- Add your custom HEAD content here -->
-
-	</head>
-	<body>
-		<div id="content-container" >
-			<div  nameid="Desktop - 2"  id="_bg__desktop___2"  ></div>
-			<img src="skins/_2023_11_02_20_3.png"  nameid="2023-11-02 20 3"  id="_2023_11_02_20_3" />
-			<img src="skins/___157_20231103175011_1.png"  nameid="157_20231103175011 1"  id="___157_20231103175011_1" />
-			<img src="skins/___158_20231103214438_1.png"  nameid="158_20231103214438 1"  id="___158_20231103214438_1" />
-
-			<div id="group_3"  nameid="Group 3"  >
-				<div  nameid="Group 3"  id="_bg__group_3_ek1"  ></div>
-				<img src="skins/___159_20231103215244_1.png"  nameid="159_20231103215244 1"  id="___159_20231103215244_1" />
-				<img src="skins/___160_20231103220216_1.png"  nameid="160_20231103220216 1"  id="___160_20231103220216_1" />
-				<img src="skins/___160_20231103220128_1.png"  nameid="160_20231103220128 1"  id="___160_20231103220128_1" />
-				<img src="skins/___160_20231103220145_1.png"  nameid="160_20231103220145 1"  id="___160_20231103220145_1" />
-				<img src="skins/___160_20231103220157_1.png"  nameid="160_20231103220157 1"  id="___160_20231103220157_1" />
-
-			</div>
-
-			<div id="group_4"  nameid="Group 4"  >
-				<div  nameid="Group 4"  id="_bg__group_4_ek1"  ></div>
-				<img src="skins/___160_20231103221718_1.png"  nameid="160_20231103221718 1"  id="___160_20231103221718_1" />
-				<img src="skins/___160_20231103221736_1.png"  nameid="160_20231103221736 1"  id="___160_20231103221736_1" />
-
-			</div>
-			<img src="skins/img_9301_1.png"  nameid="IMG_9301 1"  id="img_9301_1" />
-			<img src="skins/img_9322_3.png"  nameid="IMG_9322 3"  id="img_9322_3" />
-			<img src="skins/img_9308_6.png"  nameid="IMG_9308 6"  id="img_9308_6" />
-			<img src="skins/img_9332_3.png"  nameid="IMG_9332 3"  id="img_9332_3" />
-			<img src="skins/img_9327_5.png"  nameid="IMG_9327 5"  id="img_9327_5" />
-			<img src="skins/img_9292_1.png"  nameid="IMG_9292 1"  id="img_9292_1" />
-			<img src="skins/img_9315_1.png"  nameid="IMG_9315 1"  id="img_9315_1" />
-			<img src="skins/img_9344_5.png"  nameid="IMG_9344 5"  id="img_9344_5" />
-			<img src="skins/img_9297_3.png"  nameid="IMG_9297 3"  id="img_9297_3" />
-
-			<div id="group_2"  nameid="Group 2"  >
-				<div  nameid="Group 2"  id="_bg__group_2_ek1"  ></div>
-				<img src="skins/___161_20231103223547_1.png"  nameid="161_20231103223547 1"  id="___161_20231103223547_1" />
-				<img src="skins/___161_20231103224014_1.png"  nameid="161_20231103224014 1"  id="___161_20231103224014_1" />
-				<img src="skins/___161_20231103223906_1.png"  nameid="161_20231103223906 1"  id="___161_20231103223906_1" />
-				<img src="skins/___161_20231105141329_1.png"  nameid="161_20231105141329 1"  id="___161_20231105141329_1" />
-				<img src="skins/___161_20231105141430_1.png"  nameid="161_20231105141430 1"  id="___161_20231105141430_1" />
-				<img src="skins/___161_20231105142420_1.png"  nameid="161_20231105142420 1"  id="___161_20231105142420_1" />
-				<img src="skins/___161_20231105143621_1.png"  nameid="161_20231105143621 1"  id="___161_20231105143621_1" />
-				<img src="skins/___161_20231105143310_1.png"  nameid="161_20231105143310 1"  id="___161_20231105143310_1" />
-				<img src="skins/___161_20231105143202_1.png"  nameid="161_20231105143202 1"  id="___161_20231105143202_1" />
-
-			</div>
-
-			<div id="group_1"  nameid="Group 1"  >
-				<div  nameid="Group 1"  id="_bg__group_1_ek1"  ></div>
-				<img src="skins/___161_20231105144934_1.png"  nameid="161_20231105144934 1"  id="___161_20231105144934_1" />
-				<img src="skins/___161_20231105144947_1.png"  nameid="161_20231105144947 1"  id="___161_20231105144947_1" />
-
-			</div>
-
-		</div>
-	</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
