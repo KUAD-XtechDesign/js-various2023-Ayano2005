@@ -2,3 +2,8 @@ img{
     width: 100%;
     margin: auto;
     display: block;}
+
+img {
+  width: 640px;
+  height: 427px;
+}
